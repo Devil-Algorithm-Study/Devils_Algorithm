@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29e7d0e-1984-43ba-a62b-2952acd82987" name="변경" comment="" />
+    <list default="true" id="c29e7d0e-1984-43ba-a62b-2952acd82987" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devil_Java/src/main/java/week01_recursion/silver/BOJ24060_dwoong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="joshcho/week01_BOJ24060" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,7 +38,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Devil-Algorithm-Study/Devils_Algorithm.git&quot;,
-    &quot;accountId&quot;: &quot;1590cd78-5171-4f22-be53-83825648b558&quot;
+    &quot;accountId&quot;: &quot;f796f72d-e72d-467c-b1fa-29ef3633737e&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -53,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dwoong/week01__BOJ24060",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/joshcho/Devils_Algorithm",
     "node.js.detected.package.eslint": "true",
@@ -66,7 +70,7 @@
     "애플리케이션.BOJ24060_joshcho.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BOJ5639_joshcho">
+  <component name="RunManager" selected="애플리케이션.BOJ5639_joshcho">
     <configuration name="BOJ24060_joshcho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week01.silver.BOJ24060_joshcho" />
       <module name="Devils_Algorithm" />
@@ -93,13 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.BOJ5639_joshcho" />
-        <item itemvalue="Application.BOJ24060_joshcho" />
-        <item itemvalue="Application.BOJ24060_joshcho" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -119,6 +116,10 @@
       <workItem from="1756857466412" duration="4849000" />
       <workItem from="1757220613264" duration="2325000" />
       <workItem from="1757222960521" duration="10019000" />
+      <workItem from="1757318995423" duration="75000" />
+      <workItem from="1757319091125" duration="272000" />
+      <workItem from="1757319388864" duration="8000" />
+      <workItem from="1757319414659" duration="135000" />
     </task>
     <servers />
   </component>
