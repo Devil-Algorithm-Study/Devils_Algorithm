@@ -3,9 +3,6 @@ import java.util.*;
 
 public class BOJ5639_joshcho
 {
-
-    Scanner input  = new Scanner(System.in);
-
     static class TreeNode {
         int value;
         TreeNode left, right;
@@ -13,11 +10,11 @@ public class BOJ5639_joshcho
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         TreeNode root = null;
 
-        while (sc.hasNextInt()) {
-            int key = sc.nextInt();
+        while (input.hasNextInt()) {
+            int key = input.nextInt();
             root = insert(root, key);
         }
 
