@@ -1,6 +1,8 @@
+package week01_recursion.gold;
+
 import java.util.*;
 
-public class Main {
+public class BOJ5639_dwoong {
     public static void main(String[] args) {
         new week01_2().run();
     }

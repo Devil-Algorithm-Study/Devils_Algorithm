@@ -1,8 +1,8 @@
+package week01_recursion.silver;
 import java.util.*;
 
-public class Main {
+public class BOJ24060_dwoong {
     public static void main(String[] args) {
-
         new week01_1().run();
     }
 }
