@@ -1,4 +1,4 @@
-package week05_bfs.jiyun;
+package week06_dp.jiyun;
 
 public class filename {
     
