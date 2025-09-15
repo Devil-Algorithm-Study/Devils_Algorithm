@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c29e7d0e-1984-43ba-a62b-2952acd82987" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Devil_Java/src/main/java/week01_recursion/gold/BOJ5639_dwoong.java" beforeDir="false" afterPath="$PROJECT_DIR$/Devil_Java/src/main/java/week01_recursion/gold/BOJ5639_dwoong.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dwoong/week01_BOJ24060" />
+        <entry key="$PROJECT_DIR$" value="dwoong/week02_BOJ16463" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dwoong/week01__BOJ5639",
+    "git-widget-placeholder": "dwoong/week02__BOJ12100",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/dwoong/Desktop/dfw/Devils_Algorithm",
     "node.js.detected.package.eslint": "true",
@@ -120,7 +119,7 @@
       <workItem from="1757319091125" duration="272000" />
       <workItem from="1757319388864" duration="8000" />
       <workItem from="1757319414659" duration="8754000" />
-      <workItem from="1757924197667" duration="129000" />
+      <workItem from="1757924197667" duration="392000" />
     </task>
     <servers />
   </component>
