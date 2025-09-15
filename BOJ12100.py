@@ -12,7 +12,7 @@ for row in range(N):
         values.append(int(x))
     board.append(values)
 
-ㅌ
+
 #왼쪽 기준
 def sum_line(line):
 
