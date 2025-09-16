@@ -1,4 +1,4 @@
-package week01.gold;
+package week01_recursion.gold;
 import java.util.*;
 
 public class BOJ5639_joshcho
