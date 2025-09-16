@@ -1,4 +1,4 @@
-package week01.silver;
+package week01_recursion.silver;
 import java.util.Scanner;
 public class BOJ24060_joshcho
 {

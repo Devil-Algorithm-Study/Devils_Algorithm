@@ -1,3 +1,5 @@
+package week02_bruteforce;
+
 import java.io.*;
 import java.util.*;
 
