@@ -1,4 +1,4 @@
-package week02.silver;
+package week02_bruteforce;
 
 import java.io.*;
 
