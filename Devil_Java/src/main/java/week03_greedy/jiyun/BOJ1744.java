@@ -39,19 +39,12 @@ public class BOJ1744 {
             }
         }
 
-        boolean isFirstIdx=true;
         for (int i=posIdx; i<n; i++) {
             if (num[i]==0 || num[i]==1) {
                 result += num[i];
             }
-            else if (isFirstIdx) {
-                if ((n-i)%2!=0) {
-                    result += num[i];
-                }
-                else {
-                    result += num[i] * num[++i];
-                }
-                isFirstIdx = false;
+            else if ((n-i)%2!=0) {
+                result += num[i];
             }
             else {
                 result += num[i] * num[++i];
