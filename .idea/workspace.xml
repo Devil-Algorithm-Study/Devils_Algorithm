@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c29e7d0e-1984-43ba-a62b-2952acd82987" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Devil_Python/week02_recursion/silver/BOJ16463.py" beforeDir="false" afterPath="$PROJECT_DIR$/Devil_Python/week02_recursion/silver/BOJ16463.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devil_Python/week03_recursion/gold/BOJ1744.py" beforeDir="false" afterPath="$PROJECT_DIR$/Devil_Python/week03_recursion/gold/BOJ1744.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
     "Application.BOJ5639_joshcho.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.BOJ16463.executor": "Run",
+    "Python.BOJ1744.executor": "Run",
     "Python.BOJ2217.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -122,7 +123,8 @@
       <workItem from="1757319091125" duration="272000" />
       <workItem from="1757319388864" duration="8000" />
       <workItem from="1757319414659" duration="8754000" />
-      <workItem from="1757924197667" duration="10125000" />
+      <workItem from="1757924197667" duration="10496000" />
+      <workItem from="1758511529485" duration="2676000" />
     </task>
     <servers />
   </component>
@@ -145,6 +147,7 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Devils_Algorithm$BOJ1744.coverage" NAME="BOJ1744 커버리지 결과" MODIFIED="1758514033601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Devil_Python/week03_recursion/gold" />
     <SUITE FILE_PATH="coverage/Devils_Algorithm$BOJ16463.coverage" NAME="BOJ16463 커버리지 결과" MODIFIED="1757925487324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Devil_Python/week02_recursion/silver" />
     <SUITE FILE_PATH="coverage/Devils_Algorithm$BOJ2217.coverage" NAME="BOJ2217 커버리지 결과" MODIFIED="1758508865654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Devil_Python/week03_recursion/silver" />
   </component>
